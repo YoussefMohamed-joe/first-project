@@ -54,7 +54,7 @@ class FirstScreen extends StatelessWidget {
           ),
 
             Container(
-              margin: const EdgeInsets.all(30),
+              margin: const EdgeInsets.all(10),
               decoration:  BoxDecoration(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(10),   
@@ -87,7 +87,7 @@ class FirstScreen extends StatelessWidget {
             ),
 
             Container(
-               margin: const EdgeInsets.all(30),
+               margin: const EdgeInsets.all(10),
               decoration:  BoxDecoration(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(10),   
@@ -119,7 +119,7 @@ class FirstScreen extends StatelessWidget {
             ),
 
             Container(
-               margin: const EdgeInsets.all(30),
+               margin: const EdgeInsets.all(10),
               decoration:  BoxDecoration(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(10),   
