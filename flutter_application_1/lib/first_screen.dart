@@ -96,7 +96,6 @@ class FirstScreen extends StatelessWidget {
                   BoxShadow(color: Color.fromARGB(255, 131, 124, 124),
                     spreadRadius: 2,
                     blurRadius: 20,
-
                   ),
                 ],         
               ),
